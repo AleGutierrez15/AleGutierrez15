@@ -20,7 +20,7 @@
 - [Data Analyst] - [Soy Henry]
 
 ## 📬 Conéctate Conmigo
-- LinkedIn: www.linkedin.com/in/alejandro-gutierrez-09a804263(#)
+- LinkedIn: www.linkedin.com/in/alejandro-gutierrez-09a804263
 - Email: alee159357@gmail.com
 
 ¡Colaboremos y analicemos algunos datos! 🚀
