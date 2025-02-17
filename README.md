@@ -2,7 +2,7 @@
 
 ### 📊 Analista de Datos | Power BI | SQL | Python
 
-¡Bienvenido a mi perfil de GitHub! Soy un analista de datos apasionado por transformar datos en bruto en información valiosa. Aquí encontrarás mis proyectos y soluciones basadas en datos.
+¡Bienvenido a mi perfil de GitHub! Soy un analista de datos apasionado por transformar datos en bruto en información valiosa, Buena capacidad para trabjo en equipo y con ganas de seguir aprendiendo. Aquí encontrarás mis proyectos y soluciones basadas en datos.
 
 ## 🚀 Habilidades & Herramientas
 - **Análisis de Datos:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
