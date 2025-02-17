@@ -13,15 +13,11 @@
 
 ## 📂 Proyectos Destacados
 
-📊 FastFoodDB (SQL) - Análisis y gestión de datos de restaurantes de comida rápida usando SQL.
-
-📈 AdventureWorks (Power BI) - Dashboard interactivo basado en datos de AdventureWorks.
-
-📉 SuperStore (Spreadsheets) - Análisis de datos de ventas utilizando hojas de cálculo.
-
-🧬 BioGenesys (Python y Power BI) - Análisis y visualización de datos genéticos con Python y Power BI.
-
-✈️ Aerovistas-Airways (SQL, Python y Power BI) - Análisis de datos de aerolíneas combinando SQL, Python y Power BI.
+- 📊 [FastFoodDB (SQL)](#) - Análisis y gestión de datos de restaurantes de comida rápida usando SQL.
+- 📈 [AdventureWorks (Power BI)](#) - Dashboard interactivo basado en datos de AdventureWorks.
+- 📉 [SuperStore (Spreadsheets)](#) - Análisis de datos de ventas utilizando hojas de cálculo.
+- 🧬 [BioGenesys (Python y Power BI)](#) - Análisis y visualización de datos genéticos con Python y Power BI.
+- ✈️ [Aerovistas-Airways (SQL, Python y Power BI)](#) - Análisis de datos de aerolíneas combinando SQL, Python y Power BI.
 
 ## 🎓 Certificaciones & Aprendizaje
 - [Data Analyst] - [Soy Henry]
@@ -31,4 +27,5 @@
 - Email: alee159357@gmail.com
 
 ¡Colaboremos y analicemos algunos datos! 🚀
+
 
