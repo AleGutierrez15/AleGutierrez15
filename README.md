@@ -12,9 +12,16 @@
 - **Control de Versiones:** Git & GitHub
 
 ## 📂 Proyectos Destacados
-- 📊 [Proyecto 1: Dashboard en Power BI](#) - Un panel de rendimiento de ventas utilizando Power BI.
-- 📈 [Proyecto 2: Limpieza de Datos con SQL](#) - Limpieza y transformación de datos en bruto utilizando consultas SQL.
-- 📉 [Proyecto 3: Análisis Exploratorio de Datos en Python](#) - Análisis y visualización de datos usando Pandas y Matplotlib.
+
+📊 FastFoodDB (SQL) - Análisis y gestión de datos de restaurantes de comida rápida usando SQL.
+
+📈 AdventureWorks (Power BI) - Dashboard interactivo basado en datos de AdventureWorks.
+
+📉 SuperStore (Spreadsheets) - Análisis de datos de ventas utilizando hojas de cálculo.
+
+🧬 BioGenesys (Python y Power BI) - Análisis y visualización de datos genéticos con Python y Power BI.
+
+✈️ Aerovistas-Airways (SQL, Python y Power BI) - Análisis de datos de aerolíneas combinando SQL, Python y Power BI.
 
 ## 🎓 Certificaciones & Aprendizaje
 - [Data Analyst] - [Soy Henry]
