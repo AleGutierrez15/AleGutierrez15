@@ -13,11 +13,11 @@
 
 ## 📂 Proyectos Destacados
 
-- 📊 [FastFoodDB (SQL)](https://github.com/tuusuario/FastFoodDB) - Análisis y gestión de datos de restaurantes de comida rápida usando SQL.
-- 📈 [AdventureWorks (Power BI)](https://github.com/tuusuario/AdventureWorks) - Dashboard interactivo basado en datos de AdventureWorks.
-- 📉 [SuperStore (Spreadsheets)](https://github.com/tuusuario/SuperStore) - Análisis de datos de ventas utilizando hojas de cálculo.
-- 🧬 [BioGenesys (Python y Power BI)](https://github.com/tuusuario/BioGenesys) - Análisis y visualización de datos genéticos con Python y Power BI.
-- ✈️ [Aerovistas-Airways (SQL, Python y Power BI)](https://github.com/tuusuario/Aerovistas-Airways) - Análisis de datos de aerolíneas combinando SQL, Python y Power BI.
+- 📊 [FastFoodDB (SQL)](https://github.com/AleGutierrez15/FastFoodDB) - Análisis y gestión de datos de restaurantes de comida rápida usando SQL.
+- 📈 [AdventureWorks (Power BI)](https://github.com/AleGutierrez15/AdventureWorks) - Dashboard interactivo basado en datos de AdventureWorks.
+- 📉 [SuperStore (Spreadsheets)](https://github.com/AleGutierrez15/SuperStore) - Análisis de datos de ventas utilizando hojas de cálculo.
+- 🧬 [BioGenesys (Python y Power BI)](https://github.com/AleGutierrez15/BioGenesys) - Análisis y visualización de datos genéticos con Python y Power BI.
+- ✈️ [Aerovistas-Airways (SQL, Python y Power BI)](https://github.com/AleGutierrez15/Aerovistas-Airways) - Análisis de datos de aerolíneas combinando SQL, Python y Power BI.
 
 ## 🎓 Certificaciones & Aprendizaje
 - [Data Analyst] - [Soy Henry]
