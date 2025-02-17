@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 Hola, soy Alejandro Gutierrez!
 
-<!--
-**AleGutierrez15/AleGutierrez15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos | Power BI | SQL | Python
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy un analista de datos apasionado por transformar datos en bruto en información valiosa. Aquí encontrarás mis proyectos y soluciones basadas en datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades & Herramientas
+- **Análisis de Datos:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Visualización de Datos:** Power BI, Matplotlib
+- **Bases de Datos:** SQL Server
+- **ETL & Limpieza de Datos:** SQL, Python
+- **Control de Versiones:** Git & GitHub
+
+## 📂 Proyectos Destacados
+- 📊 [Proyecto 1: Dashboard en Power BI](#) - Un panel de rendimiento de ventas utilizando Power BI.
+- 📈 [Proyecto 2: Limpieza de Datos con SQL](#) - Limpieza y transformación de datos en bruto utilizando consultas SQL.
+- 📉 [Proyecto 3: Análisis Exploratorio de Datos en Python](#) - Análisis y visualización de datos usando Pandas y Matplotlib.
+
+## 🎓 Certificaciones & Aprendizaje
+- [Data Analyst] - [Soy Henry]
+
+## 📬 Conéctate Conmigo
+- LinkedIn: www.linkedin.com/in/alejandro-gutierrez-09a804263(#)
+- Email: alee159357@gmail.com
+
+¡Colaboremos y analicemos algunos datos! 🚀
+
